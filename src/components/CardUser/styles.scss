@@ -1,0 +1,35 @@
+.avatar {
+    box-shadow: 0 0 0 1px rgba(240, 246, 252, 0.1);
+
+    @media (max-width: 991.98px) {
+        display: flex;
+        justify-content: center;
+    }
+
+    img {
+        border-radius: 50%;
+        width: 200px;
+    }
+}
+
+.card_info{
+    margin: 2rem auto;
+    width: 62%;
+    padding: 3rem;
+
+    @media (max-width: 991.98px) {
+        width: 90%;
+    }
+}
+
+.text_info {
+    padding: 1.5rem 0;
+}
+
+.wrapper_buttons {
+    margin: 0 auto;
+
+    button {
+        margin: 1rem
+    }
+}

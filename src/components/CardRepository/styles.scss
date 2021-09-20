@@ -1,0 +1,13 @@
+.card-repos {
+  width: 70%;
+  margin: 0.25rem auto;
+  @media (max-width: 991.98px) {
+    width: 90%;
+  }
+}
+
+.card-repos-title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
