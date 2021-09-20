@@ -3,7 +3,7 @@ Desafio FrontEnd utilizando API do GitHub.
 
 Nesse desafio, tentei demonstrar minhas habilidades como FrontEnd, mantendo padrões de código limpo e utilizando diversos conceitos adquiridos em estudo e experiência de trabalho.
 
-Utilizei uma Context API para facilitar passagem de props para os elementos, requisições com axios, controle de rotas, componentização, imutabilidade e estilização com Sass e Bootstrap.
+Utilizei uma Context API para facilitar passagem de props para os componentes, requisições com axios, controle de rotas, componentização, imutabilidade e estilização com Sass e Bootstrap.
 
 # Instalação
 ## Clone este repositório
