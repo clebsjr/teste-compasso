@@ -14,7 +14,7 @@ $ yarn
 
 ## Execute a aplicação em modo de desenvolvimento
 $ yarn start
-O projeto inciará na porta:3000 - acesse <http://localhost:3000> 
+* O projeto inciará na porta:3000 - acesse <http://localhost:3000> 
 
 # Tecnologias
 * react: ^17.0.2
